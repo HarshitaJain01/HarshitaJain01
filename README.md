@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshita Jain</h1>
-<h3 align="center">I am a passionate Data Analyst from India.</h3>
+<h3 align="center">I am a student, aspiring Data Scientist and Software Engineer.</h3>
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/2413754-Coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitajain01&label=Profile%20views&color=0e75b6&style=flat" alt="harshitajain01" /> </p>
