@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DSA and Flask**
 
-- 📫 How to reach me **harshita31jain@gmail.com**
+- 📫 How to reach me **harshita0131jain@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
